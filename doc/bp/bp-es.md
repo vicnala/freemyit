@@ -1,6 +1,6 @@
 # Plan de negocio de FreeMyIT!
 
-## La Idea
+## La Idea (resumen ejecutivo)
 
 Usando [Tecnologías Libres](http://es.wikipedia.org/wiki/Tecnolog%C3%ADa_libre),
 ofrecemos a nuestros clientes
@@ -10,6 +10,8 @@ ofrecemos a nuestros clientes
   * estar siempre a la última en tecnología,
   * ser los dueños de su infrestructura técnológica,
   * sentirse acompañados y no depender (no estar atados) de terceras empresas
+
+## Concepto de negocio
 
 ### Producto o servicio
 
@@ -45,6 +47,8 @@ Proporciona a nuestros clientes el control sobre su propia infraestructura a tra
 FreeMyIT! empezará ofreciendo productos y servicios TIC a pequeñas empresas, administraciones y centros educativos locales.
 
 ### Como se cubre la necesidad
+
+Los promotores de la idea somos especialistas en tecnologías informáticas... con años de expeririencia...
 
 ### Factores de Diferenciación
 
