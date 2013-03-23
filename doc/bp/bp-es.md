@@ -11,36 +11,37 @@ ofrecemos a nuestros clientes
   * ser los dueños de su infrestructura técnológica,
   * sentirse acompañados y no depender de terceras empresas
 
-## ¿Porqué?
-
-Porque existe y existirá una creciente necesidad de inversión e inmersión en las tecnologías de la información.
-
-Porque el desarrollo de nuevas tecnologías es imparable. Cada día nacen nuevos proyectos y servicios cada vez más 
-innovadores y que a la vez son más fáciles de usar e integrar usando Tecnologías Libres.
-
-Porque *es posible* sustituir los actuales sistemas operativos y el software de ofimática de una "Ventanilla" por sus 
-alternativas libres y no tener que volver a pagar por licencias de software nunca más.
-
-Porque no tendrás que arriesgarse a usar *software pirata*.
-
-Porque siempre tendrás la infraestructura al día.
-
-Porque estamos en un momento de creación y reinvención de empresas y modelos de negocio.
-
-Porque el uso de nuevas tecnologías facilita esta renovación.
-
-Porque queremos ser investigación desarrollo e innovación.
-
 
 ## Concepto de Negocio
 
-  1. Producto o servicio
-  2. Necesidad que se cubre
-  3. Segmento a quien se atiende
-  4. Como se cubre la necesidad
-  5. Factores de Diferenciación 
-  6. Factor de Especialización.
-  7. Posicionamiento
+### Producto o servicio
+
+1. Migrations (migraciones de sistemas operativos y aplicaciones) permiten al cliente dejar de depender de terceras empresas en toda sus infraestructura tecnológica e introducir un ahorro directo en licencias de software.
+2. Labs (desarrollos tecnológicos) que son posibles y accesibles gracias al software libre.
+3. KowHow proporciona a nuestros clientes el control sobre su propia infraestructura a través de la formación.
+
+### Necesidad que se cubre
+
+* La necesidad de inversión e inmersión en las tecnologías de la información
+* La implantación de nuevos productos y servicios, cada vez más fáciles de usar e integrar usando Tecnologías Libres.
+* La sustitución de los actuales sistemas operativos, software de ofimática y navegador por sus alternativas libres.
+* Ahorrar dirécamente en  licencias de software.
+* No tener que arriesgarse a usar *software pirata*.
+* Y mantener la infraestructura al día.
+* Poder crear, investigar, desarrollar, reinventarse e innovar.
+
+### Segmento a quien se atiende
+
+FreeMyIT! empezará ofreciendo productos y servicios TIC a pequeñas empresas, administraciones y centros educativos locales.
+
+
+### Como se cubre la necesidad
+
+### Factores de Diferenciación
+
+### Factor de Especialización
+
+### Posicionamiento
 
 ## La nueva empresa en el sector
 
@@ -50,9 +51,23 @@ Porque queremos ser investigación desarrollo e innovación.
 ## Marketing y Estrategias de crecimiento
 
 ### Marketing
+
+
 ### Estrategias de crecimiento
+
+Desde el principio, seguiremos la máxima “actúa local, piensa global” y desarrollaremos
+de forma internacionalizada todos nuestros productos y servicios de forma que podamos
+dirigirnos a los mismos sectores en todo el mundo.
+
+Una vez consolidada, FreeMyIT! dará el salto a las medianas empresas y administraciones autonómicas
+y por último dar el salto a las grandes empresas, multinacionales y gobiernos.
+
 ### Oportunidad de mercado
+
+
 ### Público objetivo
+
+
 ### Potenciación del producto o servicio
 
 ## Tecnología
