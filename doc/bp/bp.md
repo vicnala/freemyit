@@ -13,37 +13,54 @@ Es un proyecto o anteproyecto de una empresa. Persigue diferentes objetivos:
 
 ## Índice de un BP
 
-1. Resumen ejecutivo
+## Resumen ejecutivo
 
-2. Concepto de Negocio
+## Concepto de Negocio
 
-  a. Producto o servicio
-  b. Necesidad que se cubre
-  c. Segmento a quien se atiende
-  d. Como se cubre la necesidad
-  e. Factores de Diferenciación 
-  f. Factor de Especialización.
-  g. Posicionamiento
+  1. Producto o servicio
+  2. Necesidad que se cubre
+  3. Segmento a quien se atiende
+  4. Como se cubre la necesidad
+  5. Factores de Diferenciación 
+  6. Factor de Especialización.
+  7. Posicionamiento
 
-3. La nueva empresa en el sector. Mercado. Público objetivo. Competencia.
+## La nueva empresa en el sector
 
-4. Marketing y Estrategias de crecimiento. Oportunidad de mercado. Público objetivo. Potenciación del producto o servicio.
+### Mercado, público objetivo
+### Competencia
 
-5. Tecnología.
+## Marketing y Estrategias de crecimiento
 
-6. Plan de Ventas
+### Marketing
+### Estrategias de crecimiento
+### Oportunidad de mercado
+### Público objetivo
+### Potenciación del producto o servicio
 
-7. Plan de producción
+## Tecnología
 
-8. Personal. Perfiles, motivación y retribución.
+## Plan de Ventas
 
-9. Previsión de Cash-Flow. Rentabilidad.
+## Plan de producción
 
-10. Financiación. Necesidades de dinero.
+## Personal. Perfiles, motivación y retribución
 
-11. Estructura organizativa. Organigrama. Descripción puestos de trabajo. Misión, responsabilidad y tareas.
+## Previsión de Cash-Flow. Rentabilidad
 
-12. Plan de los primeros 90 días. Quién hace qué, cómo y cuándo.
+## Financiación. Necesidades de dinero
+
+## Estructura organizativa
+
+### Organigrama
+
+### Descripción puestos de trabajo
+
+### Misión
+
+### Responsabilidad y tareas
+
+## Plan de los primeros 90 días. Quién hace qué, cómo y cuándo
 
 # Desarrollo
 
@@ -53,7 +70,7 @@ La empresa debe tener una actividad concreta, diferenciada y protegida que sea l
 
 ## Sector
 
-Analiza todas las actividades que compiten o competirán con el concepto de negocio que se va a lanzar. Apoyándote en la matriz de Abel diferencia entre sector y mercado. 
+Analiza todas las actividades que compiten o competirán con el concepto de negocio que se va a lanzar. Apoyándote en la matriz de Abel diferencia entre sector y mercado.
 
 ## Crecimiento
 
@@ -79,6 +96,6 @@ Los presupuestos deben ser muy realistas y luego, somételos a un stress. Es dec
 
 Es clave para el éxito. puede ser una combinación de capital y créditos y puede ser en una etapa o varias sucesivas. A veces, por hacerlo más atractivo se infravalora la financiación. Buscar financiación en crisis de liquidez resta energía para la venta.
 
-## Plan  90 días.
+## Plan  90 días
 
 La puesta en marcha debe ajustarse a un calendario riguroso. Quitarse de encima lo burocrático, atrasar lo que sea gasto y no sea necesario y tener en cuenta las contingencias.
