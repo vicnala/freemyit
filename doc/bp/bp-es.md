@@ -54,17 +54,13 @@ FreeMyIT! empezará ofreciendo productos y servicios TIC a pequeñas empresas, a
 
 ## La nueva empresa en el sector
 
-### Mercado, público objetivo
-
-Cualquier puesto de trabajo de *tipo ventanilla* en el que sólo se use la ofimática y el navegador, es un
-cliente de nuestra línea 1 *Migrations*.
+### Mercado
 
 ### Competencia
 
 ## Marketing y Estrategias de crecimiento
 
 ### Marketing
-
 
 ### Estrategias de crecimiento
 
@@ -78,6 +74,16 @@ y por último dar el salto a las grandes empresas, multinacionales y gobiernos.
 ### Oportunidad de mercado
 
 ### Público objetivo
+
+Cualquier puesto de trabajo de *tipo ventanilla* en el que sólo se use la ofimática y el navegador, es un
+cliente de nuestra [Línea 1. Migrations](https://github.com/vicnala/freemyit/blob/master/doc/bp/bp-es.md#lnea-1-migrations).
+
+Ya estamos en contacto con centros educativos, centros de salud, locutorios, bibliotecas, ayuntamientos y ventanillas
+de la administración.
+
+Las líneas 2 y 3 van dirigidas a clientes que además necesitan adaptar, introducir o mejorar un producto o servicio,
+por ejemoplo programas que pierden el soporte técnico bien por caducidad de su licencia o por incopatibilidad de nuevas 
+versiones.
 
 ### Potenciación del producto o servicio
 
