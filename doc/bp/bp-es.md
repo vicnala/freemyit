@@ -86,8 +86,11 @@ Ya estamos en contacto con centros educativos, centros de salud, locutorios, bib
 de la administración.
 
 Las líneas 2 y 3 van dirigidas a clientes que además necesitan adaptar, introducir o mejorar un producto o servicio,
-por ejemoplo programas que pierden el soporte técnico bien por caducidad de su licencia o por incopatibilidad de nuevas 
+por ejemplo programas que pierden el soporte técnico bien por caducidad de su licencia o por incopatibilidad de nuevas 
 versiones.
+
+Dentro las líneas 2 y 3 ya hemos contactado con una franquicia y un centro educativo a los que les interesaría
+desarrollar proyectos con nosotros.
 
 ### Potenciación del producto o servicio
 
