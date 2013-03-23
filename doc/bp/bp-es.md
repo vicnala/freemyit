@@ -1,17 +1,36 @@
 # Plan de negocio de FreeMyIT!
 
-## Resumen ejecutivo
+## La Idea
 
-En FreeMyIT! ofrecemos a nuestros clientes la posibilidad de usar la última 
-tecnología en su propia infraestructura.
+Usando [Tecnologías Libres](http://es.wikipedia.org/wiki/Tecnolog%C3%ADa_libre),
+ofrecemos a nuestros clientes
 
-Usando [Tecnologías Libres](http://es.wikipedia.org/wiki/Tecnolog%C3%ADa_libre), conseguimos que nuestros clientes
-  
-  * ahorren en costes y en licencias de software,
-  * se sientan seguros,
-  * estén a la última en tecnología,
-  * sean los dueños de su infrestructura técnológica,
-  * se sientan acompañados y no dependan de terceras empresas
+  * ahorro en costes y en licencias de software,
+  * seguridad,
+  * estar siempre a la última en tecnología,
+  * ser los dueños de su infrestructura técnológica,
+  * sentirse acompañados y no depender de terceras empresas
+
+## ¿Porqué?
+
+Porque existe y existirá una creciente necesidad de inversión e inmersión en las tecnologías de la información.
+
+Porque el desarrollo de nuevas tecnologías es imparable. Cada día nacen nuevos proyectos y servicios cada vez más 
+innovadores y que a la vez son más fáciles de usar e integrar usando Tecnologías Libres.
+
+Porque *es posible* sustituir los actuales sistemas operativos y el software de ofimática de una "Ventanilla" por sus 
+alternativas libres y no tener que volver a pagar por licencias de software nunca más.
+
+Porque no tendrás que arriesgarse a usar *software pirata*.
+
+Porque siempre tendrás la infraestructura al día.
+
+Porque estamos en un momento de creación y reinvención de empresas y modelos de negocio.
+
+Porque el uso de nuevas tecnologías facilita esta renovación.
+
+Porque queremos ser investigación desarrollo e innovación.
+
 
 ## Concepto de Negocio
 
