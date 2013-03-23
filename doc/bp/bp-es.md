@@ -1,17 +1,4 @@
-# GUIA PARA PREPARAR UN PLAN DE EMPRESA
-
-## ¿Qué es un BP?
-
-Es un proyecto o anteproyecto de una empresa. Persigue diferentes objetivos:
-
-1. Ayudar al emprendedor a  alcanzar un conocimiento objetivo de la empresa que quiere poner en marcha.
-2. Encontrar socios y convencerlos para que aporten.
-3. Obtener financiación para lanzar la empresa.
-4. Es un ejercicio útil tanto para lanzar una nueva empresa, como para desarrollar una  nueva unidad de negocio en una ya existente.
-5. El formato más frecuente es el escrito. Es muy importante condensar la información y hacerla asumible.
-6. El ingenio que apliques habla muy bien de ti.
-
-## Índice de un BP
+# Plan de negocio de FreeMyIT!
 
 ## Resumen ejecutivo
 
