@@ -1,6 +1,6 @@
-# freemyit
+# FreeMyIT!
 
-FreeMyIT! is an open source bussines adventure
+*The open source way on bussines adventure*
 
 
 ## License
