@@ -26,7 +26,7 @@ El producto básico de esta línea lleva asociada una __cuota anual por equipo__
 
 __Proyectos__ de desarrollo tecnológico que son posibles y accesibles gracias al software libre.
 
-#### Línea 3. KowHow
+#### Línea 3. KnowHow
 
 Proporciona a nuestros clientes el control sobre su propia infraestructura a través de la __formación__.
 
